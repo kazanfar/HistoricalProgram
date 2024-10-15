@@ -9,4 +9,6 @@ These periods are grouped by 5 historical "worlds":
 
 Project was written in October, 2011
 
-[![HitCount](https://hits.dwyl.com/kazanfar/HistoricalProgram.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kazanfar/HistoricalProgram)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m2b1pngahqi7cbxu905m" alt="trackgit-views" />
+</a>
