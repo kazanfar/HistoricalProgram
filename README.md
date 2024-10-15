@@ -6,3 +6,5 @@ These periods are grouped by 5 historical "worlds":
 3. Russian world
 4. Persian world
 5. Turkish world
+
+Project was written in October, 2011
