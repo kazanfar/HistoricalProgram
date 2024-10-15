@@ -8,7 +8,3 @@ These periods are grouped by 5 historical "worlds":
 5. Turkish world
 
 Project was written in October, 2011
-
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m2b1pngahqi7cbxu905m" alt="trackgit-views" />
-</a>
