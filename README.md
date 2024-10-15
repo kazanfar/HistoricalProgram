@@ -8,3 +8,5 @@ These periods are grouped by 5 historical "worlds":
 5. Turkish world
 
 Project was written in October, 2011
+
+[![HitCount](https://hits.dwyl.com/kazanfar/HistoricalProgram.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kazanfar/HistoricalProgram)
